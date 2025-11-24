@@ -43,11 +43,7 @@ Demo video: https://youtu.be/VbotHY5oGHs
 
 ---
 
-<<<<<<< HEAD
 ## Tech Stack
-=======
-## 🛠 Tech Stack
->>>>>>> 59ee6e05aabe0915305ae9d93c16089a0b31f9b5
 
 ### **Framework & Language**
 
@@ -84,27 +80,6 @@ Demo video: https://youtu.be/VbotHY5oGHs
 
 ---
 
-<<<<<<< HEAD
-=======
-## Installation & Running Locally
-
-```sh
-git clone <repository-url>
-cd <project-folder>
-
-npm install
-npm run dev
-```
-
-Runs at:
-
-```
-http://localhost:3000/
-```
-
----
-
->>>>>>> 59ee6e05aabe0915305ae9d93c16089a0b31f9b5
 ## Responsive Layout Snapshots
 
 ### **320px (Mobile)**
@@ -121,42 +96,8 @@ http://localhost:3000/
 
 ---
 
-<<<<<<< HEAD
-=======
-## Build & Deployment
 
-### **Local Production Build**
-
-```sh
-npm run build
-npm start
-```
-
-### **Deployment**
-
-Deployed using **Vercel**.
-
-Steps:
-
-1. Push to GitHub
-2. Import repo in Vercel
-3. Deploy using default Next.js settings
-
-Production URL:
-*[Add your Vercel URL here]*
-
----
-
-## Demo Video
-
-A 1–2 minute demo showcasing table features, sorting, interactions, and real-time updates:
-
-*[Add your YouTube link here]*
-
----
-
->>>>>>> 59ee6e05aabe0915305ae9d93c16089a0b31f9b5
-## Project Structure
+## 🏗 Project Structure
 
 ```
 src/
@@ -182,6 +123,4 @@ public/
 * Prefetched + memoized data
 * Suspense-ready components
 
-
-
-
+---
