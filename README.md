@@ -3,7 +3,7 @@
 
 A pixel-perfect, high-performance replica of **Axiom Trade's Token Discovery Table**, rebuilt using modern React architecture and optimized for real-time token markets.
 
-Live site:  *[Add your Vercel URL here]*
+Live site: https://token-trading-table-ten.vercel.app
 Demo video:  *[Add your YouTube link here]*
 
 ---
