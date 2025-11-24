@@ -102,15 +102,15 @@ http://localhost:3000/
 
 ### **320px (Mobile)**
 
-![Mobile view](public/screenshots/mobile-320.png)
+![Mobile view](public/Screenshots/mobile.png)
 
 ### **768px (Tablet)**
 
-![Tablet view](public/screenshots/tablet-768.png)
+![Tablet view](public/Screenshots/Tablet.png)
 
 ### **Desktop**
 
-![Desktop view](public/screenshots/desktop.png)
+![Desktop view](public/Screenshots/Desktop.png)
 
 ---
 
