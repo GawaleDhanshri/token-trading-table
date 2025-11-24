@@ -47,7 +47,7 @@ Demo video: https://youtu.be/VbotHY5oGHs
 
 ### **Framework & Language**
 
-* **Next.js 14 (App Router)**
+* **vite**
 * **TypeScript (strict mode)**
 
 ### **UI & Styling**
